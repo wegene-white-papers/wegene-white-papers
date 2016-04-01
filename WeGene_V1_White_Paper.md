@@ -40,7 +40,7 @@ WeGene V1 选择了 Affymetrix 公司根据我们的设计方案生产芯片。�
 |5'端UTR|约1000|
 |3'端UTR|约8000|
 
-这些位点在各条染色体上的分布见 *图 1* 。可以看出，WeGene V1 在可用于Y单倍群分析的Y染色体上覆盖了接近20000个位点，这使得WeGene 
+这些位点在各条染色体上的分布见 *图 1* 。 
 
 **图1.** WeGene V1 检测结果在各条染色体上的分布![wegene_v1_markers_chr_bar](/wegene_v1_markers_chr_bar.png)￼
 
